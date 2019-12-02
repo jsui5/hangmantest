@@ -1,6 +1,15 @@
 @media screen and (max-width:483px) {
     #image_block {
-        width:100%;
+        width: 100%;
+    }
+    #score_block{
+        width: 100%;
+    }
+    #live_block{
+        width: 100%;
+    }
+    #letter_buttons_block{
+        width: 100%;
     }
 }
 

@@ -1,4 +1,7 @@
-@media screen and (max-width:483px) {
+@media screen and (max-width:960px) {
+    #game_play {
+        width: 100%;
+    }
     #image_block {
         width: 100%;
     }
